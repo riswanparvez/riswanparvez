@@ -1,16 +1,21 @@
-## Hi there 👋
+# Parvez Riswan Mohamed SR
 
-<!--
-**riswanparvez/riswanparvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud Security Engineer focused on Microsoft Azure security, identity protection, and threat detection.
 
-Here are some ideas to get you started:
+## Skills
+- Azure Security
+- Microsoft Sentinel
+- Defender for Cloud
+- Entra ID
+- KQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Cloud Security Projects
+
+### Azure Secure Score Improvement Lab
+Improved Azure tenant security posture using Defender for Cloud recommendations.
+
+### Azure Cloud Security Monitoring & Threat Detection Lab
+Built a monitoring environment using Sentinel and Log Analytics to detect brute-force authentication attacks.
+
+### Conditional Access & Identity Protection Lab
+Implemented MFA enforcement and conditional access policies to secure privileged accounts.
