@@ -19,3 +19,6 @@ Built a monitoring environment using Sentinel and Log Analytics to detect brute-
 
 ### Conditional Access & Identity Protection Lab
 Implemented MFA enforcement and conditional access policies to secure privileged accounts.
+
+Azure Cloud Security Labs  
+https://github.com/yourusername/Azure-Cloud-Security-Labs
